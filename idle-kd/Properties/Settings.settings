@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Idle5.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LastDay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="LastFocus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="LastIdle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="IdleThreshold_s" Type="System.String" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="LunchTimeStart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12:00:00</Value>
+    </Setting>
+    <Setting Name="LunchTimeEnd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">13:00:00</Value>
+    </Setting>
+    <Setting Name="UpdatePeriod_ms" Type="System.String" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
